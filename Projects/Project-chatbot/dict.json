@@ -1,0 +1,66 @@
+{
+    "hi":{
+        "hi":
+        ["Hello, How can I help you?", 
+        "Welcome, How may I help you?",
+        "Welcome, How may I assist you today?",
+        "Hi there! What can I do for you?"]
+    },
+    "cafe": {
+        "close": ["The Cafe will close at 5 PM."],
+        "open": ["The Cafe will open at 6 AM."],
+        "menu": ["We serve coffee, tea, pastries, and sandwiches. Check our full menu at www.tbc.com/menu.",
+        "Cafe's Menu includes coffee, tea, pasteries and sandwiches. For detailed menu, visit www.tbc.com/menu."],
+        "location": ["The Cafe is located on the ground floor of Building A.",
+        "The cafe is located on Building A's ground floor."]
+    },
+    "admission": {
+        "start": ["The admission will start from the second week of September. For more details, contact us or visit our website www.tbc.com.",
+        "Admissions begin in the second week of September. Visit www.tbc.com or contact us for more information."],
+        "criteria": ["Admissions are based on academic performance and an entrance exam."]
+    },
+    "fee": {
+        "structure": ["The fee structure varies by program. Visit www.tbc.com/fees for detailed information.",
+        "The fees depend on the program you choose. For more details, check www.tbc.com/fees."]
+    },
+    "events": {
+        "upcoming": ["The Annual Sports Day is scheduled for October 15. Register by October 5.",
+        "The upcoming event is The Annual Sports Day scheduled for October 15. Deadline for regitration is October 5."],
+        "past": ["The Science Fair was held on August 20. Thank you to everyone who participated!",
+        "The last event hosted by our college was The Science Fair which was held on August 20."]
+    },
+    "library": {
+        "hours": ["The library is open from 8 AM to 8 PM, Monday through Saturday.",
+        "You can visit the library between 8 AM and 8 PM, Monday through Saturday."],
+        "rules": ["Please maintain silence, and no food or drinks are allowed inside the library.",
+        "Silence is required, and food or beverages are not permitted in the library."],
+        "resources": ["We offer books, journals, e-books, and free Wi-Fi for all students.",
+        "Students can access books, journals, e-books, and complimentary Wi-Fi in the library."]
+    },
+    "hostel": {
+        "available": ["Hostel rooms are available."],
+        "rules": ["Hostel curfew is at 10 PM. Visitors are allowed only during specific hours.",
+        "You must return to the hostel by 10 PM, and visitors are allowed only during set hours."],
+        "fees": ["Hostel fees start at Rs.5000 per month, including meals.",
+        "Hostel fees start at Rs. 5000 per month with meals included."]
+    },
+    "facilities":{
+        "facilities": ["Our campus offers free Wi-Fi, 24/7 library access, and sports facilities."]
+    },
+    "scholarship": {
+        "deadline": ["The deadline of submitting scholarship form is by 16th November."],
+        "eligibility": ["Students with more than 85% are eligible for scholarship depending on their rank."]
+    },
+    "noreply":
+      ["I am not trained for this.",
+      "I dont have an answer for this.",
+      "I dont have an reply for this."],
+    "thank":
+    {
+        "thank": ["You are most welcome! How may I help you again."]
+    },
+    "course":{
+        "course":["We have different courses like AI, Computing, Hotel Management, BBA, Cyber Securrity, etc. For further details check our website www.tbc.www",
+        "Our courses include AI, Computing, Hotel Management, BBA, Cyber Security, and others. For additional details, please check our website at www.tbc.www"]
+    }
+}

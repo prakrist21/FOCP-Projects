@@ -1,0 +1,45 @@
+01-15-2025 18:27:37 Question: hi
+01-15-2025 18:27:37 Answer: Hi there! What can I do for you?
+01-15-2025 18:27:53 Question: what is the admission criteria
+01-15-2025 18:27:53 Answer: Admissions are based on academic performance and an entrance exam.
+01-15-2025 18:28:11 Question: what about scholarship
+01-15-2025 18:28:29 Answer: What do you want to know about scholarship. Try be more specific like scholarship deadline, scholarship eligibility.
+01-15-2025 18:28:29 Question: What about scholarship eligiblity
+01-15-2025 18:28:36 Answer: What do you want to know about scholarship. Try be more specific like scholarship deadline, scholarship eligibility.
+01-15-2025 18:28:36 Question: What about scholarship eligibility
+01-15-2025 18:28:36 Sorry, network disconnected !!!
+
+01-15-2025 18:29:06 Question: hi
+01-15-2025 18:29:06 Answer: Welcome, How may I help you?
+01-15-2025 18:29:17 Question: when does cafe open
+01-15-2025 18:29:17 Answer: The Cafe will open at 6 AM.
+01-15-2025 18:29:22 Question: when does cafe close
+01-15-2025 18:29:22 Answer: The Cafe will close at 5 PM.
+01-15-2025 18:29:30 Question: what about fee structure
+01-15-2025 18:29:30 Sorry, network disconnected !!!
+
+01-15-2025 18:29:49 Question: hi
+01-15-2025 18:29:49 Answer: Welcome, How may I assist you today?
+01-15-2025 18:29:59 Question: what about course in this college
+01-15-2025 18:29:59 Answer: Our courses include AI, Computing, Hotel Management, BBA, Cyber Security, and others. For additional details, please check our website at www.tbc.www
+01-15-2025 18:30:15 Question: thank you
+01-15-2025 18:30:15 Answer: You are most welcome! How may I help you again.
+01-15-2025 18:30:27 Question: what about parking
+01-15-2025 18:30:27 Answer: Sorry Alexia , I am not trained for this.
+01-15-2025 18:30:29 Question: bye
+01-15-2025 18:30:29 Answer: Bye Alexia ! It was nice talking with you.
+
+01-15-2025 18:31:26 Question: when does the admission start
+01-15-2025 18:31:26 Answer: Admissions begin in the second week of September. Visit www.tbc.com or contact us for more information.
+01-15-2025 18:31:33 Question: okay thank you for the information
+01-15-2025 18:31:33 Answer: You are most welcome! How may I help you again.
+01-15-2025 18:31:34 Question: bye
+01-15-2025 18:31:34 Answer: Bye Mohan! It was nice talking with you.
+
+01-15-2025 18:45:18 Question: hi
+01-15-2025 18:45:18 Answer: Welcome, How may I help you?
+01-15-2025 18:45:27 Question: describe me about the scholarship criteria
+01-15-2025 18:45:34 Answer: What do you want to know about scholarship. Try be more specific like scholarship deadline, scholarship eligibility.
+01-15-2025 18:45:34 Question: describe me about the scholarship eligibility
+01-15-2025 18:45:34 Sorry, network disconnected !!!
+
